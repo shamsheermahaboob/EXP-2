@@ -73,7 +73,7 @@ Open circuit characteristics
   
 Load Characteristics:
 
-![Uploading image.png…]()
+<img width="279" height="411" alt="image" src="https://github.com/user-attachments/assets/0c8a7ee2-c621-4cbc-8644-3b98bd959db7" />
 
 
 Result:
